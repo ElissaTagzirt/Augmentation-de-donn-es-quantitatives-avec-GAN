@@ -1,6 +1,6 @@
 Data Augmentation pour l’Agriculture avec GAN 🌱
 Projet académique réalisé dans le cadre du module FASI (4e année, ESI).
-Nous avons utilisé des réseaux antagonistes génératifs (GANs) pour enrichir un jeu de données environnementales liées à la consommation d’eau pour différentes cultures agricoles en Inde.
+Nous avons utilisé des réseaux antagonistes génératifs (GANs) pour enrichir un jeu de données environnementales liées à la consommation d’eau pour différentes cultures agricoles.
 
 Objectifs :
 

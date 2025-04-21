@@ -1,0 +1,26 @@
+water req,month,Min Temp,Max Temp,Humidity,Wind,Sun,Rad,rain,altitude,latitude,longitude,crop,soil,city
+44.4,October,19.0,34.0,43,168,9.0,18.6,12.0,431,26.91,75.78,maize,red lomy sand,jaipur
+95.2,November,13.0,29.0,47,120,9.0,16.1,8.0,431,26.91,75.78,maize,red lomy sand,jaipur
+100.4,December,9.0,24.0,51,120,8.0,13.8,3.0,431,26.91,75.78,maize,red lomy sand,jaipur
+63.0,January,8.0,22.0,56,144,8.0,14.6,6.0,431,26.91,75.78,maize,red lomy sand,jaipur
+2.6,February,11.0,26.0,46,192,9.0,17.9,10.0,431,26.91,75.78,maize,red lomy sand,jaipur
+0.0,October,24.0,33.0,78,168,6.3,17.7,241.0,7,13.08,80.27,maize,red lomy sand,chennai
+0.0,November,23.0,31.0,82,168,6.1,16.1,329.0,7,13.08,80.27,maize,red lomy sand,chennai
+28.4,December,22.0,30.0,79,168,6.6,16.0,123.0,7,13.08,80.27,maize,red lomy sand,chennai
+85.3,January,21.0,30.0,75,168,8.7,19.4,15.0,7,13.08,80.27,maize,red lomy sand,chennai
+3.4,February,21.0,32.0,71,192,9.6,22.2,3.0,7,13.08,80.27,maize,red lomy sand,chennai
+2.1,October,22.4,32.4,61,95,8.7,20.7,89.7,281,15.8,78.06,maize,red lomy sand,kurnool
+86.3,November,19.2,31.0,56,78,7.7,17.6,23.6,281,15.8,78.06,maize,red lomy sand,kurnool
+121.7,December,16.6,30.3,51,69,8.4,17.7,1.8,281,15.8,78.06,maize,red lomy sand,kurnool
+99.4,January,17.0,31.3,47,104,8.8,18.7,0.0,281,15.8,78.06,maize,red lomy sand,kurnool
+3.3,February,19.3,34.3,37,112,9.3,21.2,4.5,281,15.8,78.06,maize,red lomy sand,kurnool
+29.4,October,19.0,33.0,63,72,7.0,15.7,10.0,216,28.7,77.01,maize,red lomy sand,delhi
+65.0,November,13.0,28.0,68,48,9.0,15.5,10.0,216,28.7,77.01,maize,red lomy sand,delhi
+70.8,December,9.0,22.0,71,96,10.0,15.3,10.0,216,28.7,77.01,maize,red lomy sand,delhi
+40.3,January,8.0,21.0,73,120,10.0,16.1,20.0,216,28.7,77.01,maize,red lomy sand,delhi
+2.0,February,10.0,23.0,66,144,10.0,18.6,30.0,216,28.7,77.01,maize,red lomy sand,delhi
+0.0,October,24.0,32.0,78,72,6.3,16.0,141.0,9,22.7,88.36,maize,red lomy sand,kolkata
+59.7,November,19.0,30.0,72,48,8.1,16.3,26.0,9,22.7,88.36,maize,red lomy sand,kolkata
+88.7,December,14.0,27.0,72,72,8.4,15.6,7.0,9,22.7,88.36,maize,red lomy sand,kolkata
+52.0,January,13.0,26.0,71,72,8.4,16.3,14.0,9,22.7,88.36,maize,red lomy sand,kolkata
+2.2,February,17.0,30.0,66,72,8.5,18.4,22.0,9,22.7,88.36,maize,red lomy sand,kolkata

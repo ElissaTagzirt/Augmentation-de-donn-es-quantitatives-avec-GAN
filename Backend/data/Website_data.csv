@@ -1,0 +1,37 @@
+Crop,Total growing period (days),Crop water need (mm/total growing period)
+Alfalfa,100-365,800-1600
+Banana,300-365,1200-2200
+Barley/Oats/Wheat,120-150,450-650
+Bean green,75-90,300-500
+Bean dry,95-110,300-500
+Cabbage,120-140,350-500
+Carrot,100-150,
+Citrus,240-365,900-1200
+Cotton,180-195,700-1300
+Cucumber,105-130,
+Eggplant,130-140,
+Flax,150-220,
+Grain/small,150-165.,
+Lentil,150-170,
+Lettuce,75-140,
+Maize sweet,80-110,500-800
+Maize grain,125-180,500-800
+Melon,120-160,400-600
+Millet,105-140,450-650
+Onion green,70-95,350-550
+Onion dry,150-210,350-550
+Peanut/Groundnut,130-140,500-700
+Pea,90-100,350-500
+Pepper,120-210,600-900
+Potato,105-145,500-700
+Radish,35-45,
+Rice,90-150,450-700
+Sorghum,120-130,450-650
+Soybean,135-150,450-700
+Spinach,60-100,
+Squash,95-120,
+Sugarbeet,160-230,550-750
+Sugarcane,270-365,1500-2500
+Sunflower,125-130,600-1000
+Tobacco,130-160,
+Tomato,135-180,400-800

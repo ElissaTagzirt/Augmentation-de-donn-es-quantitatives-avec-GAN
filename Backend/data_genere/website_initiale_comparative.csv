@@ -1,0 +1,37 @@
+Crop,Growing_period_days,Crop_water_need_mm
+Alfalfa,232.5,1200.0
+Banana,332.5,1700.0
+Barley/Oats/Wheat,135.0,550.0
+Bean green,82.5,400.0
+Bean dry,102.5,400.0
+Cabbage,130.0,425.0
+Carrot,125.0,724.0
+Citrus,302.5,1050.0
+Cotton,187.5,1000.0
+Cucumber,117.5,724.0
+Eggplant,135.0,724.0
+Flax,185.0,724.0
+Grain/small,157.5,724.0
+Lentil,160.0,724.0
+Lettuce,107.5,724.0
+Maize sweet,95.0,650.0
+Maize grain,152.5,650.0
+Melon,140.0,500.0
+Millet,122.5,550.0
+Onion green,82.5,450.0
+Onion dry,180.0,450.0
+Peanut/Groundnut,135.0,600.0
+Pea,95.0,425.0
+Pepper,165.0,750.0
+Potato,125.0,600.0
+Radish,40.0,724.0
+Rice,120.0,575.0
+Sorghum,125.0,550.0
+Soybean,142.5,575.0
+Spinach,80.0,724.0
+Squash,107.5,724.0
+Sugarbeet,195.0,650.0
+Sugarcane,317.5,2000.0
+Sunflower,127.5,800.0
+Tobacco,145.0,724.0
+Tomato,157.5,600.0

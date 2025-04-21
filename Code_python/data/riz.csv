@@ -1,0 +1,31 @@
+water req,month,Min Temp,Max Temp,Humidity,Wind,Sun,Rad,rain,altitude,latitude,longitude,crop,soil,CITY
+479.4,may,26,41,27,288,9,23.4,18,431,26.91,75.78,rice,BLACK CLAY,jaipur
+224.2,june,27,39,46,312,7,20.6,51,431,26.91,75.78,rice,BLACK CLAY,jaipur
+47.8,july,25,34,73,264,5,17.5,213,431,26.91,75.78,rice ,BLACK CLAY,jaipur
+17.9,august,24,33,81,240,5,16.9,227,431,26.91,75.78,rice,BLACK CLAY,jaipur
+85.7,september,23,34,67,192,8,19.7,80,431,26.91,75.78,rice,BLACK CLAY,jaipur
+416.5,may,27,39,63,312,9,23.2,32,7,13.08,80.27,rice,BLACK CLAY,chennai
+176.5,june,27,38,61,312,6.8,19.6,56,7,13.08,80.27,rice ,BLACK CLAY,chennai
+132.1,july,26,36,64,288,6,18.4,111,7,13.08,80.27,rice,BLACK CLAY,chennai
+90.3,august,25,35,70,264,6.2,18.9,154,7,13.08,80.27,rice,BLACK CLAY,chennai
+65.6,september,25,35,72,240,6.6,19.2,121,7,13.08,80.27,rice,BLACK CLAY,chennai
+425.5,may,27.2,40,37,225,8.3,22.2,44.4,281,15.8,78.06,rice,BLACK CLAY,kurnool
+178.8,june,25,35.6,54,354,5.8,18.3,71.6,281,15.8,78.06,rice,BLACK CLAY,kurnool
+135.4,july,23.8,32.5,64,363,4.4,16.2,96,281,15.8,78.06,rice,BLACK CLAY,kurnool
+123.2,august,23.5,32.1,63,302,4.9,16.9,98.7,281,15.8,78.06,rice,BLACK CLAY,kurnool
+58.1,september,23.3,31.9,65,207,5.5,17.3,116,281,15.8,78.06,rice,BLACK CLAY,kurnool
+411.3,may,26,39,42,192,8,21.9,30,216,28.7,77.01,rice,BLACK CLAY,delhi
+155.7,june,28,39,54,216,7,20.6,80,216,28.7,77.01,rice,BLACK CLAY,delhi
+47.7,july,27,35,73,168,5,17.5,170,216,28.7,77.01,rice,BLACK CLAY,delhi
+10.8,august,26,34,77,144,4,15.3,200,216,28.7,77.01,rice,BLACK CLAY,delhi
+31.8,september,25,34,72,120,6,16.7,110,216,28.7,77.01,rice,BLACK CLAY,delhi
+281,may,26,36,73,192,8.4,22.6,126,9,22.7,88.36,rice,BLACK CLAY,kolkata
+5.1,june,27,34,80,168,4.5,16.7,301,9,22.7,88.36,rice,BLACK CLAY,kolkata
+0,july,26,33,84,144,4.1,16.1,375,9,22.7,88.36,rice,BLACK CLAY,kolkata
+0,august,26,33,84,144,4.1,15.7,339,9,22.7,88.36,rice,BLACK CLAY,kolkata
+0,september,26,33,84,120,5,16,305,9,22.7,88.36,rice,BLACK CLAY,kolkata
+406.1,may,27,33,69,240,10,25,10,14,19.07,72.82,rice,BLACK CLAY,mumbai
+10.9,june,26,32,77,288,5,17.3,560,14,19.07,72.82,rice,BLACK CLAY,mumbai
+0,july,25,30,83,336,2,12.8,640,14,19.07,72.82,rice,BLACK CLAY,mumbai
+0,august,25,30,83,288,3,14.1,520,14,19.07,72.82,rice,BLACK CLAY,mumbai
+0,september,25,31,81,168,5,16.3,320,14,19.07,72.82,rice,BLACK CLAY,mumbai
